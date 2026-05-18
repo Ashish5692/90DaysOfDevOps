@@ -51,11 +51,12 @@ Real World Example: Amazon used to have very slow systems, but by adopting Devop
                     today.
 
 What is C.A.L.M.S Freamwork
-Culture: Communication and Trust
-Automation : Automate Manual Tasks
-Lean: Minimize waste and wait times
-Measurement: Use data to improve
-Sharing: Share knowledge and success
+----------------------------
+- Culture: Communication and Trust
+- Automation : Automate Manual Tasks
+- Lean: Minimize waste and wait times
+- Measurement: Use data to improve
+- Sharing: Share knowledge and success
 
 Example: Etsy uses "Blameless Post-Mortems", If an engineer accidentally deletes data, they don't fire them. They rather ask "How can we change the system so it's impossible to accidently delete data next time?"
 
