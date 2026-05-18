@@ -50,7 +50,7 @@ Development Teams collaborate with Operation Teams :
 Real World Example: Amazon used to have very slow systems, but by adopting Devops they moved to releasing the code every 11.7 seconds allowing them to become the giant they are
                     today.
 
-What is C.A.L.M.S Freamwork
+What is C.A.L.M.S Framework
 ----------------------------
 - Culture: Communication and Trust
 - Automation : Automate Manual Tasks
