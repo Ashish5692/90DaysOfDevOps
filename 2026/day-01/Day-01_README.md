@@ -1,5 +1,5 @@
-  Understanding of Devops and Cloud Engineering
-
+Understanding of Devops and Cloud Engineering
+---------------------------------------------
   Devops - Dev + Ops 
            Development team -  Writes codes, designs feature and fixes the bug
            Operation Team - Responsible for servers, network, security, scaling and keeping the application 24/7 running.
