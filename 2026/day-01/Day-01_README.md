@@ -165,22 +165,20 @@ You can do DevOps without Cloud, but it's hard.
 You can use Cloud without DevOps, but it's slow.
 Together, they are a "Power Couple" for speed.
 
-88
+- Cloud allows DevOps to automate infrastructure (laC).
+- Cloud provides the unlimited resources needed for continuous testing and deployment.
 
-Cloud allows DevOps to automate infrastructure (laC).
-Cloud provides the unlimited resources needed for continuous testing and
-deployment.
 Key Concepts
 Cloud-Native: Building apps specifically to run on the cloud (using
 containers/microservices).
 
-Programmable Infrastructure: The cloud allows hardware to be controlled by
-code, which is essential for DevOps automation.
+Programmable Infrastructure: The cloud allows hardware to be controlled by code, which is essential for DevOps automation.
 
 Real-World Example
-Netflix uses DevOps practices (automated testing) on AWS Cloud (scalable
-servers) to update their streaming service globally without downtime.
+Netflix uses DevOps practices (automated testing) on AWS Cloud (scalable servers) to update their streaming service globally without downtime.
 
+Notes: 
+------
 DevOps is how you work. Cloud is where you work. They just
 work perfectly together.
 
@@ -200,11 +198,9 @@ Code travels from a developer's laptop to a cloud server through an automated pi
 
 Real-World Example
 ------------------
-A developer fixes a typo on the website. They push the change to Git. GitHub
-Actions sees the change, runs a spell-check test, passes it, and updates the
-website on AWS S3 automatically in 2 minutes.
+A developer fixes a typo on the website. They push the change to Git. GitHub Actions sees the change, runs a spell-check test, passes it, and updates the website on AWS S3 automatically in 2 minutes.
 
-- Code Repository CI Pipeline Testing Deployment.
+- Code --> Repository ---> CI Pipeline ---> Testing  ---> Deployment.
 - Everything is automated where possible.
 - Feedback loops return to the developer.
 
@@ -221,6 +217,7 @@ SRE (Site Reliability Engineer): A specialized role focused purely on reliabilit
 and scaling (Google's version of DevOps).
 
 Real-World Example
+------------------
 A System Administrator learns Python and AWS. They start automating their
 daily tasks. They eventually become a DevOps Engineer helping developers
 automate their releases.
